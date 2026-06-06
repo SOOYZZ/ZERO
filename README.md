@@ -1,3 +1,9 @@
+## 神经网络
+
+- [micrograd](https://github.com/karpathy/micrograd)
+- [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
+- [nanochat](https://github.com/karpathy/nanochat)
+
 ## 前端框架
 
 - [WTF is JSX -- JSX 本质和解析原理](https://jasonformat.com/wtf-is-jsx/)
