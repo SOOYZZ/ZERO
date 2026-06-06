@@ -1,6 +1,4 @@
-[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-
----
+## [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
 #### 神经网络
 
@@ -8,6 +6,8 @@
 - [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 - [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
 - [nanochat](https://github.com/karpathy/nanochat)
+
+---
 
 #### 命令行工具
 
@@ -31,7 +31,9 @@
 
 #### 自动化脚本
 
-- ## []
+- []
+
+---
 
 #### 前端框架
 
