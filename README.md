@@ -6,10 +6,28 @@
 
 ---
 
-#### 计算机要素
+#### CPU
 
-- [nand2tetris](https://github.com/woai3c/nand2tetris)
+- [mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)
 
 #### 操作系统
 
-- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv)
+- [operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
+
+#### 解释器编译器
+
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+- [minilisp](https://github.com/rui314/minilisp)
+- [c4](https://github.com/rswier/c4)
+
+#### 数据库
+
+- [tinydb](https://github.com/msiemens/tinydb)
+
+#### WEB 框架
+
+- [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)
+
+#### DOCKER
+
+- [bocker](https://github.com/p8952/bocker)
