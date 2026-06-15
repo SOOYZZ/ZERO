@@ -3,6 +3,7 @@
 - [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 - [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
 - [nanochat](https://github.com/karpathy/nanochat)
+- [codex](https://github.com/openai/codex)
 
 ---
 
